@@ -1,7 +1,7 @@
 # TencentAd_2019
 腾讯2019年广告算法大赛_初赛a榜86.5_b榜85.2_rank215
 
-更多细节阐述，请看[腾讯2019广告算法大赛总结](https://blog.csdn.net/Kaitiren/article/details/38513715)
+更多细节阐述，请看[腾讯2019广告算法大赛总结](https://blog.csdn.net/yyhhlancelot/article/details/90642707)
 
 ### 代码注释
 read.py：提取原始数据转换为.csv
